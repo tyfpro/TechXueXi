@@ -122,6 +122,8 @@ Panda Learning为本人python学习交流的开源非营利项目，仅作为程
 
 ## 💾下载地址
 
+**高速下载地址：**https://pandalearning.github.io/Panda-Learning-download/
+
 [![](https://img.shields.io/badge/download-win%20完整版-blue.svg?style=for-the-badge&logo=windows)](https://github.com/PandaLearning/Panda-Learning/releases/download/V20200408/Panda_learning-win.7z)  首次使用推荐下载
 
 [![](https://img.shields.io/badge/download-win%20更新包-blue.svg?style=for-the-badge&logo=windows)](https://pandalearning.github.io/Panda-Learning-download/pandalearning.exe) ![](https://img.shields.io/badge/size-6.91%20mb-9cf.svg?style=social)  下载覆盖即可使用，老用户下载
