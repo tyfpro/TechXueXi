@@ -122,27 +122,24 @@ Panda Learning为本人python学习交流的开源非营利项目，仅作为程
 
 ## 💾下载地址
 
-### 高速下载地址：
-https://pandalearning.github.io/Panda-Learning-download/
 
-### 普通下载地址：
-[![](https://img.shields.io/badge/download-win%20完整版-blue.svg?style=for-the-badge&logo=windows)](https://github.com/PandaLearning/Panda-Learning/releases/download/V20200408/Panda_learning-win.7z)  首次使用推荐下载
+[![](https://img.shields.io/badge/download-win%20完整版-blue.svg?style=for-the-badge&logo=windows)](https://pandalearning.github.io/Panda-Learning-download/Panda_learning-win.7z)  首次使用推荐下载
 
 [![](https://img.shields.io/badge/download-win%20更新包-blue.svg?style=for-the-badge&logo=windows)](https://pandalearning.github.io/Panda-Learning-download/pandalearning.exe) ![](https://img.shields.io/badge/size-6.91%20mb-9cf.svg?style=social)  下载覆盖即可使用，老用户下载
 
 ------
 
-[![](https://img.shields.io/badge/download-osx%20程序包-green.svg?style=for-the-badge&logo=apple)](https://github.com/PandaLearning/Panda-Learning/raw/mac/pandalearning-mac/pandalearning_macos.zip) ![](https://img.shields.io/badge/size-12.9%20mb-9cf.svg?style=social)   需预先安装Chrome浏览器
+[![](https://img.shields.io/badge/download-osx%20程序包-green.svg?style=for-the-badge&logo=apple)](https://pandalearning.github.io/Panda-Learning-download/原作者旧版/pandalearning_macos.zip) ![](https://img.shields.io/badge/size-12.9%20mb-9cf.svg?style=social)   需预先安装Chrome浏览器
 
-[![](https://img.shields.io/badge/download-osx%20浏览器-green.svg?style=for-the-badge&logo=google-chrome)](https://github.com/PandaLearning/Panda-Learning/raw/mac/pandalearning-mac/googlechrome.dmg) ![](https://img.shields.io/badge/size-74.3%20mb-9cf.svg?style=social)   Google Chrome镜像
+[![](https://img.shields.io/badge/download-osx%20浏览器-green.svg?style=for-the-badge&logo=google-chrome)](https://pandalearning.github.io/Panda-Learning-download/原作者旧版/googlechrome.dmg) ![](https://img.shields.io/badge/size-74.3%20mb-9cf.svg?style=social)   Google Chrome镜像
 
 ------
 
-[![](https://img.shields.io/badge/download-linux%20程序-orange.svg?style=for-the-badge&logo=linux)](https://github.com/PandaLearning/Panda-Learning/raw/linux/pandalearning-linux/pandalearning_linux.tar.gz) ![](https://img.shields.io/badge/size-11.2%20mb-9cf.svg?style=social)   需预先安装Chrome浏览器
+[![](https://img.shields.io/badge/download-linux%20程序-orange.svg?style=for-the-badge&logo=linux)](https://pandalearning.github.io/Panda-Learning-download/原作者旧版/pandalearning_linux.tar.gz) ![](https://img.shields.io/badge/size-11.2%20mb-9cf.svg?style=social)   需预先安装Chrome浏览器
 
-[![](https://img.shields.io/badge/download-rpm%20浏览器-orange.svg?style=for-the-badge&logo=google-chrome)](https://github.com/PandaLearning/Panda-Learning/raw/linux/pandalearning-linux/google-chrome-stable_current_x86_64.rpm) ![](https://img.shields.io/badge/size-55.1%20mb-9cf.svg?style=social)   适用于 Fedora/openSUSE
+[![](https://img.shields.io/badge/download-rpm%20浏览器-orange.svg?style=for-the-badge&logo=google-chrome)](https://pandalearning.github.io/Panda-Learning-download/原作者旧版/google-chrome-stable_current_x86_64.rpm) ![](https://img.shields.io/badge/size-55.1%20mb-9cf.svg?style=social)   适用于 Fedora/openSUSE
 
-[![](https://img.shields.io/badge/download-deb%20浏览器-orange.svg?style=for-the-badge&logo=google-chrome)](https://github.com/PandaLearning/Panda-Learning/raw/linux/pandalearning-linux/google-chrome-stable_current_amd64.deb)  ![](https://img.shields.io/badge/size-55.0%20mb-9cf.svg?style=social)   适用于 Debian/Ubuntu
+[![](https://img.shields.io/badge/download-deb%20浏览器-orange.svg?style=for-the-badge&logo=google-chrome)](https://pandalearning.github.io/Panda-Learning-download/原作者旧版/google-chrome-stable_current_amd64.deb)  ![](https://img.shields.io/badge/size-55.0%20mb-9cf.svg?style=social)   适用于 Debian/Ubuntu
 
 [Fedora/openSUSE dnf安装Chrome和Chromedriver方法](<https://github.com/PandaLearning/Panda-Learning/blob/master/FedoraopenSUSE%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8Panda-Learning%E6%96%B9%E6%B3%95.md>)
 
@@ -150,7 +147,7 @@ https://pandalearning.github.io/Panda-Learning-download/
 
 ------
 
-[![](https://img.shields.io/badge/download-树莓派%20版本-ff69b4.svg?style=for-the-badge&logo=raspberry-pi)](https://github.com/PandaLearning/Panda-Learning/raw/linux/pandalearning-linux/google-chrome-stable_current_amd64.deb)  ![](https://img.shields.io/badge/size-6.25%20mb-9cf.svg?style=social)   适用于 raspberrypi
+[![](https://img.shields.io/badge/download-树莓派%20版本-ff69b4.svg?style=for-the-badge&logo=raspberry-pi)](https://pandalearning.github.io/Panda-Learning-download/原作者旧版/google-chrome-stable_current_amd64.deb)  ![](https://img.shields.io/badge/size-6.25%20mb-9cf.svg?style=social)   适用于 raspberrypi
 
 [Raspberry Pi 说明](https://github.com/PandaLearning/Panda-Learning/blob/master/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%89%88%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
@@ -160,9 +157,9 @@ https://pandalearning.github.io/Panda-Learning-download/
 
 win平台可能提示`无法定位程序输入点ucrtbase.terminate于动态链接库api-ms-win-crt-runtime-|1-1-0.dll`等缺失dll文件的问题而无法使用，尝试安装`Visual C++ Redistributable for Visual Studio 2015`
 
-[![](https://img.shields.io/badge/download-vc_redist.x64-blue.svg?style=for-the-badge&logo=visualstudiocode)](https://github.com/PandaLearning/Panda-Learning/raw/master/windows%E4%B8%8D%E8%83%BD%E8%BF%90%E8%A1%8C%E6%97%B6%E5%AE%89%E8%A3%85/vc_redist.x64.exe) 
+[![](https://img.shields.io/badge/download-vc_redist.x64-blue.svg?style=for-the-badge&logo=visualstudiocode)](https://pandalearning.github.io/Panda-Learning-download/windows不能运行时安装/vc_redist.x64.exe) 
 
-[![](https://img.shields.io/badge/download-vc_redist.x86-blue.svg?style=for-the-badge&logo=visualstudiocode)](https://github.com/PandaLearning/Panda-Learning/raw/master/windows%E4%B8%8D%E8%83%BD%E8%BF%90%E8%A1%8C%E6%97%B6%E5%AE%89%E8%A3%85/vc_redist.x86.exe) 
+[![](https://img.shields.io/badge/download-vc_redist.x86-blue.svg?style=for-the-badge&logo=visualstudiocode)](https://pandalearning.github.io/Panda-Learning-download/windows不能运行时安装/vc_redist.x86.exe) 
 
 
 
