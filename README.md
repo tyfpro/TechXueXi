@@ -14,7 +14,7 @@ Panda Learning 是一款使用python语言编写的学习工具。
 
 ![学习情景](https://github.com/PandaLearning/Panda-Learning/blob/master/img_folder/peoplelearning.jpg?raw=true)
 
- [![GitHub stars](https://img.shields.io/github/stars/Alivon/Panda-Learning.svg?style=social)](https://github.com/PandaLearning/Panda-Learning/stargazers)     [![GitHub forks](https://img.shields.io/github/forks/Alivon/Panda-Learning.svg?style=social)](https://github.com/PandaLearning/Panda-Learning/network/members)  `请点击页面顶部靠右star与fork`
+ [![GitHub stars](https://img.shields.io/github/stars/PandaLearning/Panda-Learning.svg?style=social)](https://github.com/PandaLearning/Panda-Learning/stargazers)     [![GitHub forks](https://img.shields.io/github/forks/PandaLearning/Panda-Learning.svg?style=social)](https://github.com/PandaLearning/Panda-Learning/network/members)  `请点击页面顶部靠右star与fork`
 
 
 
@@ -22,7 +22,7 @@ Panda Learning 是一款使用python语言编写的学习工具。
 
 
 
-[![GitHub release](https://img.shields.io/github/release/Alivon/Panda-Learning.svg?label=%E7%89%88%E6%9C%AC)](https://github.com/PandaLearning/Panda-Learning/releases/tag/V2.2)   ![GitHub top language](https://img.shields.io/github/languages/top/Alivon/Panda-Learning.svg)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Alivon/Panda-Learning.svg)  ![GitHub repo size](https://img.shields.io/github/repo-size/Alivon/Panda-Learning.svg) ![GitHub](https://img.shields.io/github/license/Alivon/Panda-Learning.svg) ![platforms](https://img.shields.io/badge/platform-win32%20%7C%20win64%20%7C%20linux%20%7C%20osx-brightgreen.svg)     [![GitHub issues](https://img.shields.io/github/issues/Alivon/Panda-Learning.svg)](https://github.com/PandaLearning/Panda-Learning/issues)  [![GitHub closed issues](https://img.shields.io/github/issues-closed/Alivon/Panda-Learning.svg)](https://github.com/PandaLearning/Panda-Learning/issues?q=is%3Aissue+is%3Aclosed) ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/Alivon/Panda-Learning.svg)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alivon/Panda-Learning.svg)  ![GitHub contributors](https://img.shields.io/github/contributors/Alivon/Panda-Learning.svg)
+[![GitHub release](https://img.shields.io/github/release/PandaLearning/Panda-Learning.svg?label=%E7%89%88%E6%9C%AC)](https://github.com/PandaLearning/Panda-Learning/releases/tag/)   ![GitHub top language](https://img.shields.io/github/languages/top/PandaLearning/Panda-Learning.svg)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PandaLearning/Panda-Learning.svg)  ![GitHub repo size](https://img.shields.io/github/repo-size/PandaLearning/Panda-Learning.svg) ![GitHub](https://img.shields.io/github/license/PandaLearning/Panda-Learning.svg) ![platforms](https://img.shields.io/badge/platform-win32%20%7C%20win64%20%7C%20linux%20%7C%20osx-brightgreen.svg)     [![GitHub issues](https://img.shields.io/github/issues/PandaLearning/Panda-Learning.svg)](https://github.com/PandaLearning/Panda-Learning/issues)  [![GitHub closed issues](https://img.shields.io/github/issues-closed/PandaLearning/Panda-Learning.svg)](https://github.com/PandaLearning/Panda-Learning/issues?q=is%3Aissue+is%3Aclosed) ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/PandaLearning/Panda-Learning.svg)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/PandaLearning/Panda-Learning.svg)  ![GitHub contributors](https://img.shields.io/github/contributors/PandaLearning/Panda-Learning.svg)
 
 
 [TOC]
@@ -178,7 +178,7 @@ win平台可能提示`无法定位程序输入点ucrtbase.terminate于动态链�
 - 汇报系统环境的详细信息，注明程序版本号与运行环境。
 - 如果你粘贴错误输出到一个issue中，请使用三个反引号包裹` ```使得显示更漂亮易读``` `。
 
-[![GitHub issues](https://img.shields.io/github/issues/Alivon/Panda-Learning.svg)](https://github.com/PandaLearning/Panda-Learning/issues)  [![GitHub closed issues](https://img.shields.io/github/issues-closed/Alivon/Panda-Learning.svg)](https://github.com/PandaLearning/Panda-Learning/issues?q=is%3Aissue+is%3Aclosed) 
+[![GitHub issues](https://img.shields.io/github/issues/PandaLearning/Panda-Learning.svg)](https://github.com/PandaLearning/Panda-Learning/issues)  [![GitHub closed issues](https://img.shields.io/github/issues-closed/PandaLearning/Panda-Learning.svg)](https://github.com/PandaLearning/Panda-Learning/issues?q=is%3Aissue+is%3Aclosed) 
 
 提交issue标题示例  `V2.4 win10x64 软件显示问题…`
 
@@ -224,7 +224,7 @@ win平台可能提示`无法定位程序输入点ucrtbase.terminate于动态链�
 
 ## 📈贡献
 
-![GitHub contributors](https://img.shields.io/github/contributors/Alivon/Panda-Learning.svg) 
+![GitHub contributors](https://img.shields.io/github/contributors/PandaLearning/Panda-Learning.svg) 
 
 [![contributors](img_folder/contributors.png)](https://github.com/PandaLearning/Panda-Learning/graphs/contributors)
 
@@ -256,7 +256,7 @@ win平台可能提示`无法定位程序输入点ucrtbase.terminate于动态链�
 
 ## 📜许可证
 
-![GitHub](https://img.shields.io/github/license/Alivon/Panda-Learning.svg) 
+![GitHub](https://img.shields.io/github/license/PandaLearning/Panda-Learning.svg) 
 
 [![](https://github.com/PandaLearning/Panda-Learning/blob/master/img_folder/1920px-LGPLv3_Logo.svg.png?raw=true)](https://github.com/PandaLearning/Panda-Learning/blob/master/LICENSE)
 
