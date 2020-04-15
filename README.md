@@ -2,6 +2,7 @@
 
 > 由于原作者不再更新，特立此代码库收集大家的更新。
 
+有意愿成为本组织成员者，请[在此留言](https://github.com/PandaLearning/Panda-Learning/issues/2)或发送主题“申请科技强国组织成员”的邮件至tobctobc@protonmail.com，请将您的github用户名添加到邮件正文中，便于发送邀请。谢谢
 ![](https://raw.githubusercontent.com/PandaLearning/Panda-Learning/master/img_folder/banner.jpg)
 
 
