@@ -1,8 +1,10 @@
 ![](https://raw.githubusercontent.com/PandaLearning/Panda-Learning/master/img_folder/kjqg.png)
 
-> 由于原作者不再更新，特立此代码库收集大家的更新。
+> 由于原作者不再更新，特立此代码库收集大家的更新。[前往原仓库star](https://github.com/Alivon/Panda-Learning)
 
-有意愿成为本组织成员者，请[在此留言](https://github.com/PandaLearning/Panda-Learning/issues/2)或发送主题“申请科技强国组织成员”的邮件至tobctobc@protonmail.com，请将您的github用户名添加到邮件正文中，便于发送邀请。谢谢
+本仓库现由“科技强国”组织进行维护，若您有意愿成为本组织成员，持续对本项目进行维护，请[在此留言](https://github.com/PandaLearning/Panda-Learning/issues/2)或发送主题“申请科技强国组织成员”的邮件至tobctobc@protonmail.com，请将您的github用户名添加到邮件正文中，便于发送邀请。谢谢。
+
+如您开发了其他“科技强国”项目，可以加入本组织，并以本组织名义发布。
 ![](https://raw.githubusercontent.com/PandaLearning/Panda-Learning/master/img_folder/banner.jpg)
 
 
@@ -224,7 +226,7 @@ win平台可能提示`无法定位程序输入点ucrtbase.terminate于动态链�
 
 
 ## 📈贡献
-
+感谢：
 ![GitHub contributors](https://img.shields.io/github/contributors/PandaLearning/Panda-Learning.svg) 
 
 [![contributors](img_folder/contributors.png)](https://github.com/PandaLearning/Panda-Learning/graphs/contributors)
