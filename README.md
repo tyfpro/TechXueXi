@@ -126,6 +126,7 @@ Panda Learning为本人python学习交流的开源非营利项目，仅作为程
 
 
 ## 💾下载地址
+[windows国内高速下载](http://d0.ananas.chaoxing.com/download/1cd95da9e7da4762a87189a0e6df85a2?fn=1)
 
 [全部文件列表](https://pandalearning.github.io/Panda-Learning-download/)
 
