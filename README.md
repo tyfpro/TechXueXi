@@ -31,8 +31,7 @@ TechXueXi 是一款使用python语言编写的学习工具。
 [TOC]
 
 ## 📃免责声明
-
-Panda Learning为本人python学习交流的开源非营利项目，仅作为程序员之间相互学习交流之用，使用需严格遵守开源许可协议。严禁用于商业用途，禁止使用Panda Learning进行任何盈利活动。对一切非法使用所产生的后果，本人概不负责。
+TechXueXi为python学习交流的开源非营利项目，仅作为程序员之间相互学习交流之用，使用需严格遵守开源许可协议。严禁用于商业用途，禁止使用TechXueXi进行任何盈利活动。对一切非法使用所产生的后果，本人概不负责。
 
 
 
@@ -74,7 +73,7 @@ Panda Learning为本人python学习交流的开源非营利项目，仅作为程
 
 ### 🔑快速使用
 
-​	`解压后运行 pandalearning 来启动程序；`
+​	`解压后运行 TechXueXi 来启动程序；`
 
 ​	`根据提示输入用户标记，标记可以是任意***英文/中文/数字***`
 
@@ -104,11 +103,11 @@ Panda Learning为本人python学习交流的开源非营利项目，仅作为程
 
 ​    user1 为已经保存了钉钉账户的用户标记
 
-​	`pandalearning.exe user1 表示自动开启user1 学习`
+​	`TechXueXi.exe user1 表示自动开启user1 学习`
 
-​	`pandalearning.exe user1 show single 表示前台显示且单线程开启user1 学习`
+​	`TechXueXi.exe user1 show single 表示前台显示且单线程开启user1 学习`
 
-​	`pandalearning.exe user1 hidden multithread 300 表示后台多线程开启user1 学习，学习完毕300秒关机`
+​	`TechXueXi.exe user1 hidden multithread 300 表示后台多线程开启user1 学习，学习完毕300秒关机`
 
 ### 🔧更新方法
 
