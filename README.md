@@ -120,8 +120,8 @@ TechXueXi为python学习交流的开源非营利项目，仅作为程序员之�
 
 
 ## 💾下载地址
-[windows国内高速下载](http://d0.ananas.chaoxing.com/download/1cd95da9e7da4762a87189a0e6df85a2?fn=1)
-(解压密码`https://github.com/TechXueXi/TechXueXi`)
+[windows高速下载](https://github.com/TechXueXi/TechXueXi/releases)
+
 [全部文件列表](https://techxuexi.github.io/TechXueXi-download/)
 
 [![](https://img.shields.io/badge/download-win%20完整版-blue.svg?style=for-the-badge&logo=windows)](https://techxuexi.github.io/TechXueXi-download/Panda_learning-win.7z)  首次使用推荐下载
