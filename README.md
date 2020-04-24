@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/TechXueXi/TechXueXi/master/img_folder/kjqg.png)
 
-> 本项目基于已终止的项目：[前往star](https://github.com/Alivon/Panda-Learning)
+> 本项目基于某已终止的项目，请自行搜索后前往star
 
-本仓库现由“科技强国”组织进行维护，若您有意愿成为本组织成员，持续对本项目进行维护，请[在此留言](https://github.com/TechXueXi/TechXueXi/issues/2)或发送主题“申请科技强国组织成员”的邮件至tobctobc@protonmail.com，请将您的github用户名添加到邮件正文中，便于发送邀请。谢谢。
+本仓库由“科技强国”组织进行维护，若您有意愿成为本组织成员，持续对本项目进行维护，请[在此留言](https://github.com/TechXueXi/TechXueXi/issues/2)或发送主题“申请科技强国组织成员”的邮件至tobctobc@protonmail.com，请将您的github用户名添加到邮件正文中，便于发送邀请。谢谢。
 
 如您开发了其他“科技强国”项目，可以加入本组织，并以本组织名义发布。
 ![](https://raw.githubusercontent.com/TechXueXi/TechXueXi/master/img_folder/banner.jpg)
@@ -31,7 +31,7 @@ TechXueXi 是一款使用python语言编写的学习工具。
 [TOC]
 
 ## 📃免责声明
-TechXueXi为python学习交流的开源非营利项目，仅作为程序员之间相互学习交流之用，使用需严格遵守开源许可协议。严禁用于商业用途，禁止使用TechXueXi进行任何盈利活动。对一切非法使用所产生的后果，本人概不负责。
+TechXueXi为python学习交流的开源非营利项目，仅作为程序员之间相互学习交流之用，使用需严格遵守开源许可协议。严禁用于商业用途，禁止使用TechXueXi进行任何盈利活动。对一切非法使用所产生的后果，我们概不负责。
 
 
 
