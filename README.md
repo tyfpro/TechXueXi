@@ -120,7 +120,7 @@ TechXueXi为python学习交流的开源非营利项目，仅作为程序员之�
 
 
 ## 💾下载地址
-**非windows系统请暂时使用源码运行————20200428**
+**非windows系统请暂时使用源码运行，各位若编译了二进制文件，可以提交PR，谢谢————20200428**
 
 [windows高速下载](https://github.com/TechXueXi/TechXueXi/releases)
 
