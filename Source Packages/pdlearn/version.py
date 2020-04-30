@@ -4,10 +4,10 @@ import requests
 def up_info():
     print("\n正在联网获取更新信息...")
     __Version = "v2.5"
-    __INFO = "熊猫学习唯一下载地址为 https://github.com/Alivon/Panda-Learning"
+    __INFO = "TechXueXi最新下载地址为 https://github.com/TechXueXi/TechXueXi"
     try:
         updata_log = requests.get(
-        "https://raw.githubusercontent.com/Alivon/Panda-Learning/master/Update%20log").content.decode(
+        "https://raw.githubusercontent.com/TechXueXi/TechXueXi/master/Update%20log").content.decode(
         "utf8")
         updata_log = updata_log.split("\n")
         print(__INFO)
