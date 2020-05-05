@@ -31,7 +31,7 @@ TechXueXi 是一款使用python语言编写的学习工具。
 ## 📃免责声明
 TechXueXi为python学习交流的开源非营利项目，仅作为程序员之间相互学习交流之用，使用需严格遵守开源许可协议。严禁用于商业用途，禁止使用TechXueXi进行任何盈利活动。对一切非法使用所产生的后果，我们概不负责。
 
-
+![](https://raw.githubusercontent.com/TechXueXi/TechXueXi/master/img_folder/qsjwczlhql.jpg)
 
 
 
