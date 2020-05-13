@@ -14,7 +14,7 @@ TechXueXi 是一款使用python语言编写的学习工具。
 
 
 ![学习情景](https://github.com/TechXueXi/TechXueXi/blob/master/img_folder/peoplelearning.jpg?raw=true)
-
+[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
  [![GitHub stars](https://img.shields.io/github/stars/TechXueXi/TechXueXi.svg?style=social)](https://github.com/TechXueXi/TechXueXi/stargazers)     [![GitHub forks](https://img.shields.io/github/forks/TechXueXi/TechXueXi.svg?style=social)](https://github.com/TechXueXi/TechXueXi/network/members)  `请点击页面顶部靠右star与fork`
 
 
