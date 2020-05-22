@@ -1,3 +1,7 @@
+**[在线聊天室试运行，地址及说明](https://gitter.im/TechXueXi-Official/community)**
+
+**下载地址：https://github.com/TechXueXi/TechXueXi/releases**
+
 > 本项目基于某已终止的项目，请自行搜索后前往star
 ![](https://raw.githubusercontent.com/TechXueXi/TechXueXi/master/img_folder/banner.jpg)
 
