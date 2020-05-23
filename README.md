@@ -2,14 +2,18 @@
 
 **下载地址：https://github.com/TechXueXi/TechXueXi/releases**
 
-> 本项目基于某已终止的项目，请自行搜索后前往star
+> 本项目基于某已终止的项目，请自行搜索后前往star。我们由衷地敬佩这个领域的先锋们
 ![](https://raw.githubusercontent.com/TechXueXi/TechXueXi/master/img_folder/banner.jpg)
 
 ![](https://raw.githubusercontent.com/TechXueXi/TechXueXi/master/img_folder/kjqg.png)
 
-本仓库由“科技强国”组织进行维护，若您有意愿成为本组织成员，持续对本项目进行维护，请发送主题“申请科技强国组织成员”的邮件至tobctobc@protonmail.com，请将您的github用户名添加到邮件正文中，便于发送邀请。谢谢。
+本仓库现由“科技强国”组织进行维护，这是全网较好的成熟产品，但已停止，我们于心不忍。
 
-如您开发了其他“科技强国”项目，可以加入本组织，并以本组织名义发布。
+许多IT人员本终日埋头写代码，确实有需求，与其各人重复修改编写浪费生产力不如团队合作维护，因此我们还是希望继续维护此生态。
+
+若您有意愿加入本组织，持续对本项目进行维护，请发送主题“申请科技强国组织成员”的邮件至tobctobc@protonmail.com，请将您的github用户名添加到邮件正文中，便于发送邀请。谢谢。
+
+如您开发了其他“科技强国”项目，也可以加入本组织，相互交流，共同维护生态。
 
 # TechXueXi
 
