@@ -128,10 +128,11 @@ TechXueXi为python学习交流的开源非营利项目，仅作为程序员之�
 
 
 ## 💾下载地址
-**非windows系统请暂时使用源码运行，各位若编译了二进制文件，可以提交PR，谢谢————20200428**
+**非windows系统请暂时使用源码运行，各位若编译了二进制文件，可以邮件我们（推荐）或提交PR，谢谢————20200428**
 
 [windows高速下载](https://github.com/TechXueXi/TechXueXi/releases)
 
+<!--
 [全部文件列表](https://techxuexi.github.io/TechXueXi-download/)
 
 [![](https://img.shields.io/badge/download-win%20完整版-blue.svg?style=for-the-badge&logo=windows)](https://techxuexi.github.io/TechXueXi-download/Panda_learning-win.7z)  首次使用推荐下载
@@ -162,11 +163,13 @@ TechXueXi为python学习交流的开源非营利项目，仅作为程序员之�
 
 [Raspberry Pi 说明](https://github.com/TechXueXi/TechXueXi/blob/master/%E6%A0%91%E8%8E%93%E6%B4%BE%E7%89%88%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
-
+-->
 
 ## 📑常见问题
 
 win平台可能提示`无法定位程序输入点ucrtbase.terminate于动态链接库api-ms-win-crt-runtime-|1-1-0.dll`等缺失dll文件的问题而无法使用，尝试安装`Visual C++ Redistributable for Visual Studio 2015`
+
+**请自行寻找下载安装。**
 
 [![](https://img.shields.io/badge/download-vc_redist.x64-blue.svg?style=for-the-badge&logo=visualstudiocode)](https://techxuexi.github.io/TechXueXi-download/windows不能运行时安装/vc_redist.x64.exe) 
 
@@ -223,3 +226,4 @@ win平台可能提示`无法定位程序输入点ucrtbase.terminate于动态链�
 [![](https://github.com/TechXueXi/TechXueXi/blob/master/img_folder/1920px-LGPLv3_Logo.svg.png?raw=true)](https://github.com/TechXueXi/TechXueXi/blob/master/LICENSE)
 
  
+# **我们不接受任何捐赠。**
